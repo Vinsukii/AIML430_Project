@@ -1,0 +1,61 @@
+
+========== fold: 0 training ==========
+Epoch 1 - avg_train_loss: 0.0326  avg_val_loss: 0.0169  time: 710s
+Epoch 1 - Score: 0.7820
+Epoch 1 - Save Best Score: 0.7820 Model
+Epoch 2 - avg_train_loss: 0.0133  avg_val_loss: 0.0142  time: 709s
+Epoch 2 - Score: 0.8310
+Epoch 2 - Save Best Score: 0.8310 Model
+Epoch 3 - avg_train_loss: 0.0112  avg_val_loss: 0.0136  time: 709s
+Epoch 3 - Score: 0.8376
+Epoch 3 - Save Best Score: 0.8376 Model
+Epoch 4 - avg_train_loss: 0.0101  avg_val_loss: 0.0137  time: 709s
+Epoch 4 - Score: 0.8414
+Epoch 4 - Save Best Score: 0.8414 Model
+Epoch 5 - avg_train_loss: 0.0093  avg_val_loss: 0.0136  time: 709s
+Epoch 5 - Score: 0.8419
+Epoch 5 - Save Best Score: 0.8419 Model
+========== fold: 0 result ==========
+Score: 0.8419
+
+========== fold: 1 training ==========
+Epoch 1 - avg_train_loss: 0.0362  avg_val_loss: 0.0167  time: 709s
+Epoch 1 - Score: 0.7930
+Epoch 1 - Save Best Score: 0.7930 Model
+Epoch 2 - avg_train_loss: 0.0124  avg_val_loss: 0.0156  time: 709s
+Epoch 2 - Score: 0.8192
+Epoch 2 - Save Best Score: 0.8192 Model
+Epoch 3 - avg_train_loss: 0.0106  avg_val_loss: 0.0156  time: 709s
+Epoch 3 - Score: 0.8271
+Epoch 3 - Save Best Score: 0.8271 Model
+Epoch 4 - avg_train_loss: 0.0098  avg_val_loss: 0.0154  time: 709s
+Epoch 4 - Score: 0.8298
+Epoch 4 - Save Best Score: 0.8298 Model
+Epoch 5 - avg_train_loss: 0.0094  avg_val_loss: 0.0155  time: 709s
+Epoch 5 - Score: 0.8312
+Epoch 5 - Save Best Score: 0.8312 Model
+========== fold: 1 result ==========
+Score: 0.8312
+
+========== fold: 2 training ==========
+Epoch 1 - avg_train_loss: 0.0390  avg_val_loss: 0.0156  time: 708s
+Epoch 1 - Score: 0.8000
+Epoch 1 - Save Best Score: 0.8000 Model
+Epoch 2 - avg_train_loss: 0.0130  avg_val_loss: 0.0142  time: 708s
+Epoch 2 - Score: 0.8254
+Epoch 2 - Save Best Score: 0.8254 Model
+Epoch 3 - avg_train_loss: 0.0115  avg_val_loss: 0.0135  time: 708s
+Epoch 3 - Score: 0.8369
+Epoch 3 - Save Best Score: 0.8369 Model
+Epoch 4 - avg_train_loss: 0.0105  avg_val_loss: 0.0135  time: 708s
+Epoch 4 - Score: 0.8391
+Epoch 4 - Save Best Score: 0.8391 Model
+Epoch 5 - avg_train_loss: 0.0101  avg_val_loss: 0.0135  time: 708s
+Epoch 5 - Score: 0.8398
+Epoch 5 - Save Best Score: 0.8398 Model
+========== fold: 2 result ==========
+Score: 0.8398
+
+
+========== CV score ==========
+Score: 0.8376
